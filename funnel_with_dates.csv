@@ -1,0 +1,859 @@
+Date,device,region,event,unique_users
+2024-01-01,Desktop,Asia,1_View,6
+2024-01-01,Desktop,Europe,1_View,8
+2024-01-01,Desktop,Europe,2_Cart,2
+2024-01-01,Desktop,North America,1_View,5
+2024-01-01,Desktop,North America,2_Cart,1
+2024-01-01,Desktop,Other,1_View,5
+2024-01-01,Desktop,Other,2_Cart,3
+2024-01-01,Desktop,Other,3_Checkout,1
+2024-01-01,Mobile,Asia,1_View,7
+2024-01-01,Mobile,Asia,2_Cart,8
+2024-01-01,Mobile,Europe,1_View,11
+2024-01-01,Mobile,Europe,2_Cart,2
+2024-01-01,Mobile,Europe,3_Checkout,2
+2024-01-01,Mobile,North America,1_View,13
+2024-01-01,Mobile,North America,2_Cart,6
+2024-01-01,Mobile,North America,4_Purchase,2
+2024-01-01,Mobile,Other,1_View,12
+2024-01-01,Mobile,Other,2_Cart,4
+2024-01-01,Mobile,Other,3_Checkout,1
+2024-01-01,Tablet,Asia,1_View,2
+2024-01-01,Tablet,Asia,4_Purchase,1
+2024-01-01,Tablet,Europe,1_View,1
+2024-01-01,Tablet,North America,1_View,2
+2024-01-01,Tablet,North America,3_Checkout,1
+2024-01-01,Tablet,Other,1_View,1
+2024-01-01,Tablet,Other,3_Checkout,1
+2024-01-02,Desktop,Asia,1_View,5
+2024-01-02,Desktop,Asia,2_Cart,3
+2024-01-02,Desktop,Asia,3_Checkout,1
+2024-01-02,Desktop,Europe,1_View,4
+2024-01-02,Desktop,Europe,2_Cart,1
+2024-01-02,Desktop,Europe,3_Checkout,1
+2024-01-02,Desktop,North America,1_View,4
+2024-01-02,Desktop,North America,3_Checkout,1
+2024-01-02,Desktop,North America,4_Purchase,1
+2024-01-02,Desktop,Other,1_View,6
+2024-01-02,Desktop,Other,2_Cart,1
+2024-01-02,Mobile,Asia,1_View,10
+2024-01-02,Mobile,Asia,2_Cart,5
+2024-01-02,Mobile,Asia,3_Checkout,3
+2024-01-02,Mobile,Asia,4_Purchase,2
+2024-01-02,Mobile,Europe,1_View,10
+2024-01-02,Mobile,Europe,2_Cart,3
+2024-01-02,Mobile,Europe,3_Checkout,1
+2024-01-02,Mobile,North America,1_View,5
+2024-01-02,Mobile,North America,2_Cart,3
+2024-01-02,Mobile,North America,3_Checkout,4
+2024-01-02,Mobile,Other,1_View,9
+2024-01-02,Mobile,Other,2_Cart,9
+2024-01-02,Mobile,Other,3_Checkout,1
+2024-01-02,Mobile,Other,4_Purchase,2
+2024-01-02,Tablet,Asia,1_View,1
+2024-01-02,Tablet,Asia,2_Cart,2
+2024-01-02,Tablet,Europe,2_Cart,1
+2024-01-02,Tablet,North America,1_View,1
+2024-01-02,Tablet,North America,2_Cart,1
+2024-01-02,Tablet,Other,1_View,1
+2024-01-03,Desktop,Asia,1_View,6
+2024-01-03,Desktop,Asia,2_Cart,3
+2024-01-03,Desktop,Europe,1_View,7
+2024-01-03,Desktop,Europe,2_Cart,4
+2024-01-03,Desktop,North America,1_View,1
+2024-01-03,Desktop,North America,4_Purchase,1
+2024-01-03,Desktop,Other,1_View,4
+2024-01-03,Mobile,Asia,1_View,17
+2024-01-03,Mobile,Asia,2_Cart,4
+2024-01-03,Mobile,Asia,3_Checkout,1
+2024-01-03,Mobile,Asia,4_Purchase,2
+2024-01-03,Mobile,Europe,1_View,11
+2024-01-03,Mobile,Europe,2_Cart,3
+2024-01-03,Mobile,Europe,3_Checkout,2
+2024-01-03,Mobile,North America,1_View,10
+2024-01-03,Mobile,North America,2_Cart,4
+2024-01-03,Mobile,North America,3_Checkout,3
+2024-01-03,Mobile,Other,1_View,13
+2024-01-03,Mobile,Other,2_Cart,3
+2024-01-03,Mobile,Other,4_Purchase,1
+2024-01-03,Tablet,Asia,1_View,2
+2024-01-03,Tablet,Europe,1_View,1
+2024-01-03,Tablet,Europe,2_Cart,2
+2024-01-03,Tablet,North America,1_View,1
+2024-01-03,Tablet,Other,1_View,2
+2024-01-04,Desktop,Asia,1_View,5
+2024-01-04,Desktop,Asia,2_Cart,1
+2024-01-04,Desktop,Asia,4_Purchase,2
+2024-01-04,Desktop,Europe,1_View,2
+2024-01-04,Desktop,Europe,2_Cart,5
+2024-01-04,Desktop,Europe,3_Checkout,1
+2024-01-04,Desktop,North America,1_View,3
+2024-01-04,Desktop,North America,2_Cart,1
+2024-01-04,Desktop,North America,3_Checkout,2
+2024-01-04,Desktop,North America,4_Purchase,1
+2024-01-04,Desktop,Other,1_View,3
+2024-01-04,Desktop,Other,2_Cart,1
+2024-01-04,Desktop,Other,3_Checkout,1
+2024-01-04,Mobile,Asia,1_View,10
+2024-01-04,Mobile,Asia,2_Cart,2
+2024-01-04,Mobile,Asia,3_Checkout,1
+2024-01-04,Mobile,Asia,4_Purchase,1
+2024-01-04,Mobile,Europe,1_View,11
+2024-01-04,Mobile,Europe,2_Cart,2
+2024-01-04,Mobile,Europe,4_Purchase,1
+2024-01-04,Mobile,North America,1_View,8
+2024-01-04,Mobile,North America,2_Cart,3
+2024-01-04,Mobile,North America,3_Checkout,1
+2024-01-04,Mobile,Other,1_View,12
+2024-01-04,Mobile,Other,2_Cart,2
+2024-01-04,Mobile,Other,3_Checkout,1
+2024-01-04,Tablet,Asia,1_View,3
+2024-01-04,Tablet,Asia,3_Checkout,1
+2024-01-04,Tablet,Europe,2_Cart,1
+2024-01-04,Tablet,North America,1_View,1
+2024-01-04,Tablet,North America,2_Cart,1
+2024-01-04,Tablet,Other,3_Checkout,1
+2024-01-05,Desktop,Asia,1_View,9
+2024-01-05,Desktop,Asia,2_Cart,1
+2024-01-05,Desktop,Europe,1_View,3
+2024-01-05,Desktop,Europe,2_Cart,1
+2024-01-05,Desktop,Europe,3_Checkout,2
+2024-01-05,Desktop,North America,1_View,7
+2024-01-05,Desktop,North America,2_Cart,2
+2024-01-05,Desktop,North America,3_Checkout,1
+2024-01-05,Desktop,Other,1_View,2
+2024-01-05,Desktop,Other,2_Cart,4
+2024-01-05,Desktop,Other,3_Checkout,1
+2024-01-05,Mobile,Asia,1_View,9
+2024-01-05,Mobile,Asia,2_Cart,5
+2024-01-05,Mobile,Asia,3_Checkout,1
+2024-01-05,Mobile,Asia,4_Purchase,1
+2024-01-05,Mobile,Europe,1_View,9
+2024-01-05,Mobile,Europe,2_Cart,6
+2024-01-05,Mobile,Europe,3_Checkout,5
+2024-01-05,Mobile,Europe,4_Purchase,1
+2024-01-05,Mobile,North America,1_View,12
+2024-01-05,Mobile,North America,2_Cart,4
+2024-01-05,Mobile,North America,3_Checkout,1
+2024-01-05,Mobile,Other,1_View,19
+2024-01-05,Mobile,Other,2_Cart,11
+2024-01-05,Tablet,Asia,1_View,3
+2024-01-05,Tablet,Asia,2_Cart,3
+2024-01-05,Tablet,Europe,1_View,1
+2024-01-05,Tablet,North America,1_View,1
+2024-01-05,Tablet,North America,2_Cart,1
+2024-01-05,Tablet,North America,3_Checkout,1
+2024-01-05,Tablet,Other,2_Cart,1
+2024-01-05,Tablet,Other,3_Checkout,1
+2024-01-06,Desktop,Asia,1_View,4
+2024-01-06,Desktop,Asia,2_Cart,2
+2024-01-06,Desktop,Asia,3_Checkout,2
+2024-01-06,Desktop,Europe,1_View,5
+2024-01-06,Desktop,North America,1_View,3
+2024-01-06,Desktop,North America,2_Cart,2
+2024-01-06,Desktop,Other,1_View,9
+2024-01-06,Desktop,Other,2_Cart,1
+2024-01-06,Mobile,Asia,1_View,10
+2024-01-06,Mobile,Asia,2_Cart,3
+2024-01-06,Mobile,Asia,4_Purchase,1
+2024-01-06,Mobile,Europe,1_View,11
+2024-01-06,Mobile,Europe,2_Cart,1
+2024-01-06,Mobile,Europe,3_Checkout,1
+2024-01-06,Mobile,North America,1_View,12
+2024-01-06,Mobile,North America,2_Cart,1
+2024-01-06,Mobile,Other,1_View,7
+2024-01-06,Mobile,Other,2_Cart,8
+2024-01-06,Mobile,Other,3_Checkout,1
+2024-01-06,Tablet,Asia,1_View,2
+2024-01-06,Tablet,Europe,1_View,2
+2024-01-06,Tablet,North America,1_View,2
+2024-01-06,Tablet,Other,1_View,2
+2024-01-06,Tablet,Other,2_Cart,1
+2024-01-07,Desktop,Asia,1_View,4
+2024-01-07,Desktop,Asia,2_Cart,1
+2024-01-07,Desktop,Asia,3_Checkout,2
+2024-01-07,Desktop,Europe,1_View,3
+2024-01-07,Desktop,Europe,2_Cart,4
+2024-01-07,Desktop,Europe,4_Purchase,1
+2024-01-07,Desktop,North America,1_View,9
+2024-01-07,Desktop,North America,2_Cart,3
+2024-01-07,Desktop,North America,3_Checkout,3
+2024-01-07,Desktop,Other,1_View,7
+2024-01-07,Desktop,Other,2_Cart,2
+2024-01-07,Mobile,Asia,1_View,9
+2024-01-07,Mobile,Asia,2_Cart,3
+2024-01-07,Mobile,Europe,1_View,16
+2024-01-07,Mobile,Europe,2_Cart,5
+2024-01-07,Mobile,Europe,4_Purchase,2
+2024-01-07,Mobile,North America,1_View,6
+2024-01-07,Mobile,North America,2_Cart,3
+2024-01-07,Mobile,North America,3_Checkout,2
+2024-01-07,Mobile,North America,4_Purchase,1
+2024-01-07,Mobile,Other,1_View,10
+2024-01-07,Mobile,Other,2_Cart,2
+2024-01-07,Mobile,Other,3_Checkout,2
+2024-01-07,Tablet,Asia,1_View,2
+2024-01-07,Tablet,Europe,1_View,1
+2024-01-07,Tablet,North America,1_View,1
+2024-01-07,Tablet,North America,2_Cart,1
+2024-01-07,Tablet,Other,1_View,4
+2024-01-08,Desktop,Asia,1_View,5
+2024-01-08,Desktop,Asia,3_Checkout,1
+2024-01-08,Desktop,Europe,1_View,7
+2024-01-08,Desktop,North America,1_View,6
+2024-01-08,Desktop,North America,2_Cart,2
+2024-01-08,Desktop,Other,1_View,7
+2024-01-08,Desktop,Other,2_Cart,2
+2024-01-08,Mobile,Asia,1_View,9
+2024-01-08,Mobile,Asia,2_Cart,3
+2024-01-08,Mobile,Asia,3_Checkout,2
+2024-01-08,Mobile,Europe,1_View,7
+2024-01-08,Mobile,Europe,2_Cart,8
+2024-01-08,Mobile,Europe,3_Checkout,1
+2024-01-08,Mobile,Europe,4_Purchase,2
+2024-01-08,Mobile,North America,1_View,9
+2024-01-08,Mobile,North America,2_Cart,4
+2024-01-08,Mobile,North America,3_Checkout,3
+2024-01-08,Mobile,North America,4_Purchase,1
+2024-01-08,Mobile,Other,1_View,9
+2024-01-08,Mobile,Other,2_Cart,4
+2024-01-08,Mobile,Other,3_Checkout,1
+2024-01-08,Tablet,Asia,1_View,3
+2024-01-08,Tablet,North America,1_View,2
+2024-01-08,Tablet,North America,2_Cart,1
+2024-01-08,Tablet,North America,3_Checkout,1
+2024-01-08,Tablet,Other,1_View,2
+2024-01-09,Desktop,Asia,1_View,5
+2024-01-09,Desktop,Asia,2_Cart,1
+2024-01-09,Desktop,Europe,1_View,1
+2024-01-09,Desktop,Europe,2_Cart,2
+2024-01-09,Desktop,North America,1_View,5
+2024-01-09,Desktop,North America,2_Cart,3
+2024-01-09,Desktop,North America,4_Purchase,1
+2024-01-09,Desktop,Other,1_View,3
+2024-01-09,Desktop,Other,2_Cart,3
+2024-01-09,Desktop,Other,4_Purchase,1
+2024-01-09,Mobile,Asia,1_View,15
+2024-01-09,Mobile,Asia,3_Checkout,3
+2024-01-09,Mobile,Asia,4_Purchase,1
+2024-01-09,Mobile,Europe,1_View,12
+2024-01-09,Mobile,Europe,2_Cart,4
+2024-01-09,Mobile,Europe,3_Checkout,4
+2024-01-09,Mobile,North America,1_View,11
+2024-01-09,Mobile,North America,2_Cart,9
+2024-01-09,Mobile,North America,3_Checkout,1
+2024-01-09,Mobile,North America,4_Purchase,1
+2024-01-09,Mobile,Other,1_View,12
+2024-01-09,Mobile,Other,2_Cart,2
+2024-01-09,Mobile,Other,3_Checkout,3
+2024-01-09,Mobile,Other,4_Purchase,1
+2024-01-09,Tablet,Asia,1_View,4
+2024-01-09,Tablet,Asia,2_Cart,2
+2024-01-09,Tablet,Europe,1_View,1
+2024-01-09,Tablet,Europe,2_Cart,2
+2024-01-09,Tablet,North America,1_View,3
+2024-01-09,Tablet,North America,2_Cart,3
+2024-01-09,Tablet,North America,3_Checkout,1
+2024-01-09,Tablet,Other,1_View,1
+2024-01-09,Tablet,Other,3_Checkout,1
+2024-01-10,Desktop,Asia,1_View,3
+2024-01-10,Desktop,Asia,2_Cart,1
+2024-01-10,Desktop,Asia,3_Checkout,1
+2024-01-10,Desktop,Europe,1_View,2
+2024-01-10,Desktop,Europe,2_Cart,2
+2024-01-10,Desktop,Europe,3_Checkout,1
+2024-01-10,Desktop,North America,1_View,5
+2024-01-10,Desktop,Other,1_View,8
+2024-01-10,Desktop,Other,2_Cart,3
+2024-01-10,Mobile,Asia,1_View,9
+2024-01-10,Mobile,Asia,2_Cart,3
+2024-01-10,Mobile,Europe,1_View,8
+2024-01-10,Mobile,Europe,2_Cart,4
+2024-01-10,Mobile,Europe,3_Checkout,1
+2024-01-10,Mobile,North America,1_View,9
+2024-01-10,Mobile,North America,2_Cart,6
+2024-01-10,Mobile,North America,3_Checkout,2
+2024-01-10,Mobile,Other,1_View,15
+2024-01-10,Mobile,Other,2_Cart,2
+2024-01-10,Mobile,Other,3_Checkout,2
+2024-01-10,Tablet,Asia,1_View,1
+2024-01-10,Tablet,Europe,1_View,2
+2024-01-10,Tablet,Europe,2_Cart,1
+2024-01-10,Tablet,North America,2_Cart,1
+2024-01-10,Tablet,Other,1_View,2
+2024-01-10,Tablet,Other,2_Cart,1
+2024-01-11,Desktop,Asia,1_View,6
+2024-01-11,Desktop,Asia,2_Cart,3
+2024-01-11,Desktop,Asia,3_Checkout,1
+2024-01-11,Desktop,Asia,4_Purchase,1
+2024-01-11,Desktop,Europe,1_View,4
+2024-01-11,Desktop,Europe,2_Cart,1
+2024-01-11,Desktop,Europe,4_Purchase,1
+2024-01-11,Desktop,North America,1_View,4
+2024-01-11,Desktop,North America,2_Cart,5
+2024-01-11,Desktop,Other,1_View,4
+2024-01-11,Desktop,Other,2_Cart,3
+2024-01-11,Mobile,Asia,1_View,5
+2024-01-11,Mobile,Asia,2_Cart,1
+2024-01-11,Mobile,Asia,3_Checkout,4
+2024-01-11,Mobile,Asia,4_Purchase,1
+2024-01-11,Mobile,Europe,1_View,10
+2024-01-11,Mobile,Europe,2_Cart,4
+2024-01-11,Mobile,Europe,3_Checkout,3
+2024-01-11,Mobile,North America,1_View,10
+2024-01-11,Mobile,North America,2_Cart,3
+2024-01-11,Mobile,North America,3_Checkout,1
+2024-01-11,Mobile,Other,1_View,8
+2024-01-11,Mobile,Other,2_Cart,2
+2024-01-11,Mobile,Other,3_Checkout,1
+2024-01-11,Tablet,Asia,1_View,2
+2024-01-11,Tablet,Europe,2_Cart,1
+2024-01-11,Tablet,North America,1_View,2
+2024-01-11,Tablet,North America,4_Purchase,1
+2024-01-11,Tablet,Other,1_View,2
+2024-01-11,Tablet,Other,2_Cart,2
+2024-01-12,Desktop,Asia,1_View,5
+2024-01-12,Desktop,Asia,2_Cart,5
+2024-01-12,Desktop,Europe,1_View,3
+2024-01-12,Desktop,Europe,2_Cart,2
+2024-01-12,Desktop,Europe,3_Checkout,1
+2024-01-12,Desktop,Europe,4_Purchase,1
+2024-01-12,Desktop,North America,1_View,4
+2024-01-12,Desktop,North America,2_Cart,1
+2024-01-12,Desktop,North America,3_Checkout,1
+2024-01-12,Desktop,Other,1_View,6
+2024-01-12,Desktop,Other,2_Cart,3
+2024-01-12,Desktop,Other,3_Checkout,3
+2024-01-12,Mobile,Asia,1_View,9
+2024-01-12,Mobile,Asia,2_Cart,7
+2024-01-12,Mobile,Asia,3_Checkout,2
+2024-01-12,Mobile,Europe,1_View,14
+2024-01-12,Mobile,Europe,2_Cart,6
+2024-01-12,Mobile,Europe,3_Checkout,2
+2024-01-12,Mobile,North America,1_View,10
+2024-01-12,Mobile,North America,2_Cart,2
+2024-01-12,Mobile,Other,1_View,16
+2024-01-12,Mobile,Other,2_Cart,2
+2024-01-12,Mobile,Other,3_Checkout,1
+2024-01-12,Tablet,Asia,1_View,1
+2024-01-12,Tablet,Europe,1_View,4
+2024-01-12,Tablet,Europe,2_Cart,1
+2024-01-12,Tablet,North America,1_View,1
+2024-01-12,Tablet,North America,2_Cart,1
+2024-01-12,Tablet,North America,3_Checkout,1
+2024-01-12,Tablet,Other,4_Purchase,1
+2024-01-13,Desktop,Asia,1_View,2
+2024-01-13,Desktop,Asia,2_Cart,1
+2024-01-13,Desktop,Europe,1_View,7
+2024-01-13,Desktop,Europe,2_Cart,1
+2024-01-13,Desktop,Europe,3_Checkout,1
+2024-01-13,Desktop,North America,1_View,3
+2024-01-13,Desktop,North America,4_Purchase,1
+2024-01-13,Desktop,Other,1_View,10
+2024-01-13,Mobile,Asia,1_View,12
+2024-01-13,Mobile,Asia,2_Cart,4
+2024-01-13,Mobile,Asia,3_Checkout,2
+2024-01-13,Mobile,Europe,1_View,7
+2024-01-13,Mobile,Europe,2_Cart,4
+2024-01-13,Mobile,North America,1_View,6
+2024-01-13,Mobile,North America,2_Cart,5
+2024-01-13,Mobile,North America,3_Checkout,1
+2024-01-13,Mobile,Other,1_View,10
+2024-01-13,Mobile,Other,2_Cart,8
+2024-01-13,Mobile,Other,3_Checkout,3
+2024-01-13,Mobile,Other,4_Purchase,1
+2024-01-13,Tablet,Europe,1_View,2
+2024-01-13,Tablet,Europe,2_Cart,1
+2024-01-13,Tablet,Other,1_View,1
+2024-01-13,Tablet,Other,2_Cart,1
+2024-01-14,Desktop,Asia,1_View,4
+2024-01-14,Desktop,Asia,2_Cart,4
+2024-01-14,Desktop,Europe,1_View,2
+2024-01-14,Desktop,Europe,2_Cart,1
+2024-01-14,Desktop,North America,1_View,8
+2024-01-14,Desktop,North America,2_Cart,2
+2024-01-14,Desktop,Other,1_View,6
+2024-01-14,Desktop,Other,2_Cart,1
+2024-01-14,Mobile,Asia,1_View,14
+2024-01-14,Mobile,Asia,2_Cart,2
+2024-01-14,Mobile,Europe,1_View,11
+2024-01-14,Mobile,Europe,2_Cart,1
+2024-01-14,Mobile,Europe,3_Checkout,2
+2024-01-14,Mobile,North America,1_View,10
+2024-01-14,Mobile,North America,2_Cart,2
+2024-01-14,Mobile,North America,3_Checkout,1
+2024-01-14,Mobile,Other,1_View,10
+2024-01-14,Mobile,Other,2_Cart,3
+2024-01-14,Tablet,Asia,4_Purchase,1
+2024-01-14,Tablet,North America,1_View,3
+2024-01-14,Tablet,North America,3_Checkout,1
+2024-01-15,Desktop,Asia,1_View,6
+2024-01-15,Desktop,Asia,2_Cart,1
+2024-01-15,Desktop,Asia,3_Checkout,6
+2024-01-15,Desktop,Asia,4_Purchase,1
+2024-01-15,Desktop,Europe,1_View,7
+2024-01-15,Desktop,Europe,2_Cart,2
+2024-01-15,Desktop,Europe,4_Purchase,1
+2024-01-15,Desktop,North America,1_View,5
+2024-01-15,Desktop,North America,2_Cart,6
+2024-01-15,Desktop,North America,3_Checkout,3
+2024-01-15,Desktop,North America,4_Purchase,1
+2024-01-15,Desktop,Other,1_View,6
+2024-01-15,Desktop,Other,2_Cart,3
+2024-01-15,Desktop,Other,3_Checkout,1
+2024-01-15,Mobile,Asia,1_View,13
+2024-01-15,Mobile,Asia,2_Cart,7
+2024-01-15,Mobile,Asia,3_Checkout,3
+2024-01-15,Mobile,Europe,1_View,8
+2024-01-15,Mobile,Europe,2_Cart,8
+2024-01-15,Mobile,Europe,3_Checkout,2
+2024-01-15,Mobile,Europe,4_Purchase,1
+2024-01-15,Mobile,North America,1_View,10
+2024-01-15,Mobile,North America,2_Cart,5
+2024-01-15,Mobile,North America,3_Checkout,3
+2024-01-15,Mobile,Other,1_View,9
+2024-01-15,Mobile,Other,2_Cart,5
+2024-01-15,Mobile,Other,3_Checkout,3
+2024-01-15,Mobile,Other,4_Purchase,3
+2024-01-15,Tablet,Asia,1_View,3
+2024-01-15,Tablet,Europe,2_Cart,2
+2024-01-15,Tablet,Europe,4_Purchase,2
+2024-01-15,Tablet,North America,1_View,1
+2024-01-15,Tablet,Other,2_Cart,1
+2024-01-16,Desktop,Asia,1_View,2
+2024-01-16,Desktop,Asia,2_Cart,1
+2024-01-16,Desktop,Asia,3_Checkout,4
+2024-01-16,Desktop,Europe,1_View,4
+2024-01-16,Desktop,Europe,3_Checkout,2
+2024-01-16,Desktop,North America,1_View,9
+2024-01-16,Desktop,North America,2_Cart,2
+2024-01-16,Desktop,North America,3_Checkout,1
+2024-01-16,Desktop,North America,4_Purchase,1
+2024-01-16,Desktop,Other,1_View,8
+2024-01-16,Desktop,Other,2_Cart,1
+2024-01-16,Desktop,Other,4_Purchase,1
+2024-01-16,Mobile,Asia,1_View,6
+2024-01-16,Mobile,Asia,2_Cart,2
+2024-01-16,Mobile,Asia,3_Checkout,2
+2024-01-16,Mobile,Europe,1_View,14
+2024-01-16,Mobile,Europe,2_Cart,2
+2024-01-16,Mobile,Europe,3_Checkout,2
+2024-01-16,Mobile,Europe,4_Purchase,1
+2024-01-16,Mobile,North America,1_View,7
+2024-01-16,Mobile,North America,2_Cart,7
+2024-01-16,Mobile,North America,3_Checkout,1
+2024-01-16,Mobile,North America,4_Purchase,1
+2024-01-16,Mobile,Other,1_View,7
+2024-01-16,Mobile,Other,2_Cart,2
+2024-01-16,Tablet,Asia,1_View,2
+2024-01-16,Tablet,Europe,1_View,1
+2024-01-16,Tablet,Europe,2_Cart,2
+2024-01-16,Tablet,Europe,4_Purchase,1
+2024-01-16,Tablet,North America,1_View,2
+2024-01-16,Tablet,North America,2_Cart,1
+2024-01-16,Tablet,Other,1_View,2
+2024-01-16,Tablet,Other,2_Cart,3
+2024-01-16,Tablet,Other,3_Checkout,1
+2024-01-17,Desktop,Asia,1_View,1
+2024-01-17,Desktop,Asia,2_Cart,3
+2024-01-17,Desktop,Asia,3_Checkout,1
+2024-01-17,Desktop,Europe,1_View,7
+2024-01-17,Desktop,Europe,2_Cart,2
+2024-01-17,Desktop,Europe,3_Checkout,1
+2024-01-17,Desktop,Europe,4_Purchase,1
+2024-01-17,Desktop,North America,1_View,6
+2024-01-17,Desktop,North America,2_Cart,2
+2024-01-17,Desktop,Other,1_View,3
+2024-01-17,Desktop,Other,2_Cart,1
+2024-01-17,Mobile,Asia,1_View,11
+2024-01-17,Mobile,Asia,2_Cart,5
+2024-01-17,Mobile,Asia,3_Checkout,1
+2024-01-17,Mobile,Europe,1_View,13
+2024-01-17,Mobile,Europe,2_Cart,6
+2024-01-17,Mobile,Europe,3_Checkout,1
+2024-01-17,Mobile,North America,1_View,12
+2024-01-17,Mobile,North America,2_Cart,4
+2024-01-17,Mobile,North America,3_Checkout,3
+2024-01-17,Mobile,North America,4_Purchase,1
+2024-01-17,Mobile,Other,1_View,8
+2024-01-17,Mobile,Other,2_Cart,4
+2024-01-17,Tablet,Asia,2_Cart,1
+2024-01-17,Tablet,Asia,3_Checkout,1
+2024-01-17,Tablet,Europe,1_View,5
+2024-01-17,Tablet,Europe,3_Checkout,1
+2024-01-17,Tablet,Other,1_View,1
+2024-01-18,Desktop,Asia,1_View,3
+2024-01-18,Desktop,Asia,2_Cart,2
+2024-01-18,Desktop,Europe,1_View,5
+2024-01-18,Desktop,Europe,2_Cart,1
+2024-01-18,Desktop,Europe,3_Checkout,1
+2024-01-18,Desktop,North America,2_Cart,5
+2024-01-18,Desktop,North America,3_Checkout,1
+2024-01-18,Desktop,North America,4_Purchase,1
+2024-01-18,Desktop,Other,1_View,7
+2024-01-18,Desktop,Other,2_Cart,2
+2024-01-18,Desktop,Other,3_Checkout,1
+2024-01-18,Mobile,Asia,1_View,12
+2024-01-18,Mobile,Asia,2_Cart,4
+2024-01-18,Mobile,Asia,4_Purchase,3
+2024-01-18,Mobile,Europe,1_View,11
+2024-01-18,Mobile,Europe,2_Cart,5
+2024-01-18,Mobile,Europe,3_Checkout,1
+2024-01-18,Mobile,North America,1_View,12
+2024-01-18,Mobile,North America,2_Cart,4
+2024-01-18,Mobile,North America,3_Checkout,2
+2024-01-18,Mobile,North America,4_Purchase,1
+2024-01-18,Mobile,Other,1_View,8
+2024-01-18,Mobile,Other,2_Cart,1
+2024-01-18,Mobile,Other,3_Checkout,2
+2024-01-18,Tablet,Asia,1_View,4
+2024-01-18,Tablet,Asia,2_Cart,1
+2024-01-18,Tablet,Europe,1_View,1
+2024-01-18,Tablet,North America,1_View,1
+2024-01-18,Tablet,North America,2_Cart,2
+2024-01-18,Tablet,Other,1_View,1
+2024-01-19,Desktop,Asia,1_View,5
+2024-01-19,Desktop,Asia,2_Cart,1
+2024-01-19,Desktop,Asia,3_Checkout,2
+2024-01-19,Desktop,Asia,4_Purchase,1
+2024-01-19,Desktop,Europe,1_View,9
+2024-01-19,Desktop,Europe,2_Cart,1
+2024-01-19,Desktop,North America,1_View,5
+2024-01-19,Desktop,North America,2_Cart,4
+2024-01-19,Desktop,North America,3_Checkout,1
+2024-01-19,Desktop,Other,1_View,4
+2024-01-19,Desktop,Other,2_Cart,3
+2024-01-19,Mobile,Asia,1_View,6
+2024-01-19,Mobile,Asia,2_Cart,4
+2024-01-19,Mobile,Asia,4_Purchase,1
+2024-01-19,Mobile,Europe,1_View,10
+2024-01-19,Mobile,Europe,2_Cart,8
+2024-01-19,Mobile,Europe,3_Checkout,4
+2024-01-19,Mobile,Europe,4_Purchase,1
+2024-01-19,Mobile,North America,1_View,4
+2024-01-19,Mobile,North America,2_Cart,1
+2024-01-19,Mobile,North America,3_Checkout,2
+2024-01-19,Mobile,North America,4_Purchase,1
+2024-01-19,Mobile,Other,1_View,15
+2024-01-19,Mobile,Other,2_Cart,5
+2024-01-19,Mobile,Other,4_Purchase,1
+2024-01-19,Tablet,Asia,1_View,1
+2024-01-19,Tablet,North America,1_View,1
+2024-01-19,Tablet,North America,3_Checkout,1
+2024-01-19,Tablet,Other,1_View,3
+2024-01-20,Desktop,Asia,1_View,2
+2024-01-20,Desktop,Asia,2_Cart,3
+2024-01-20,Desktop,Europe,1_View,4
+2024-01-20,Desktop,Europe,2_Cart,4
+2024-01-20,Desktop,North America,1_View,8
+2024-01-20,Desktop,Other,1_View,4
+2024-01-20,Desktop,Other,2_Cart,2
+2024-01-20,Desktop,Other,3_Checkout,1
+2024-01-20,Mobile,Asia,1_View,8
+2024-01-20,Mobile,Asia,2_Cart,1
+2024-01-20,Mobile,Asia,3_Checkout,4
+2024-01-20,Mobile,Europe,1_View,5
+2024-01-20,Mobile,Europe,2_Cart,6
+2024-01-20,Mobile,Europe,3_Checkout,2
+2024-01-20,Mobile,North America,1_View,14
+2024-01-20,Mobile,North America,2_Cart,3
+2024-01-20,Mobile,North America,3_Checkout,2
+2024-01-20,Mobile,North America,4_Purchase,1
+2024-01-20,Mobile,Other,1_View,10
+2024-01-20,Mobile,Other,2_Cart,4
+2024-01-20,Mobile,Other,4_Purchase,2
+2024-01-20,Tablet,Asia,1_View,3
+2024-01-20,Tablet,Europe,1_View,2
+2024-01-20,Tablet,North America,1_View,2
+2024-01-20,Tablet,North America,2_Cart,1
+2024-01-20,Tablet,North America,3_Checkout,1
+2024-01-20,Tablet,Other,1_View,1
+2024-01-20,Tablet,Other,3_Checkout,1
+2024-01-21,Desktop,Asia,1_View,4
+2024-01-21,Desktop,Asia,2_Cart,2
+2024-01-21,Desktop,Europe,1_View,10
+2024-01-21,Desktop,Europe,2_Cart,3
+2024-01-21,Desktop,North America,1_View,2
+2024-01-21,Desktop,North America,2_Cart,3
+2024-01-21,Desktop,Other,1_View,5
+2024-01-21,Desktop,Other,2_Cart,1
+2024-01-21,Mobile,Asia,1_View,10
+2024-01-21,Mobile,Asia,2_Cart,4
+2024-01-21,Mobile,Asia,3_Checkout,4
+2024-01-21,Mobile,Asia,4_Purchase,2
+2024-01-21,Mobile,Europe,1_View,5
+2024-01-21,Mobile,North America,1_View,12
+2024-01-21,Mobile,North America,2_Cart,4
+2024-01-21,Mobile,Other,1_View,6
+2024-01-21,Mobile,Other,2_Cart,5
+2024-01-21,Mobile,Other,3_Checkout,2
+2024-01-21,Tablet,Asia,1_View,3
+2024-01-21,Tablet,Europe,1_View,2
+2024-01-21,Tablet,Europe,2_Cart,1
+2024-01-21,Tablet,North America,1_View,2
+2024-01-21,Tablet,Other,1_View,1
+2024-01-21,Tablet,Other,2_Cart,1
+2024-01-21,Tablet,Other,3_Checkout,1
+2024-01-22,Desktop,Asia,1_View,5
+2024-01-22,Desktop,Asia,2_Cart,1
+2024-01-22,Desktop,Europe,1_View,5
+2024-01-22,Desktop,Europe,2_Cart,1
+2024-01-22,Desktop,North America,1_View,6
+2024-01-22,Desktop,North America,2_Cart,4
+2024-01-22,Desktop,Other,1_View,3
+2024-01-22,Desktop,Other,2_Cart,3
+2024-01-22,Desktop,Other,3_Checkout,1
+2024-01-22,Mobile,Asia,1_View,7
+2024-01-22,Mobile,Asia,2_Cart,4
+2024-01-22,Mobile,Asia,3_Checkout,2
+2024-01-22,Mobile,Europe,1_View,4
+2024-01-22,Mobile,Europe,2_Cart,2
+2024-01-22,Mobile,Europe,3_Checkout,3
+2024-01-22,Mobile,North America,1_View,18
+2024-01-22,Mobile,North America,2_Cart,2
+2024-01-22,Mobile,North America,3_Checkout,2
+2024-01-22,Mobile,Other,1_View,15
+2024-01-22,Mobile,Other,2_Cart,5
+2024-01-22,Mobile,Other,4_Purchase,1
+2024-01-22,Tablet,Asia,1_View,2
+2024-01-22,Tablet,Europe,1_View,2
+2024-01-22,Tablet,North America,1_View,1
+2024-01-22,Tablet,Other,1_View,1
+2024-01-22,Tablet,Other,4_Purchase,1
+2024-01-23,Desktop,Asia,1_View,7
+2024-01-23,Desktop,Asia,2_Cart,1
+2024-01-23,Desktop,Europe,1_View,3
+2024-01-23,Desktop,Europe,2_Cart,3
+2024-01-23,Desktop,Europe,3_Checkout,1
+2024-01-23,Desktop,North America,1_View,6
+2024-01-23,Desktop,North America,2_Cart,3
+2024-01-23,Desktop,North America,3_Checkout,2
+2024-01-23,Desktop,North America,4_Purchase,1
+2024-01-23,Desktop,Other,1_View,4
+2024-01-23,Desktop,Other,2_Cart,1
+2024-01-23,Desktop,Other,3_Checkout,2
+2024-01-23,Mobile,Asia,1_View,7
+2024-01-23,Mobile,Asia,2_Cart,4
+2024-01-23,Mobile,Europe,1_View,13
+2024-01-23,Mobile,Europe,2_Cart,3
+2024-01-23,Mobile,North America,1_View,5
+2024-01-23,Mobile,North America,2_Cart,1
+2024-01-23,Mobile,Other,1_View,9
+2024-01-23,Mobile,Other,2_Cart,4
+2024-01-23,Mobile,Other,3_Checkout,1
+2024-01-23,Tablet,Asia,2_Cart,1
+2024-01-23,Tablet,Asia,3_Checkout,1
+2024-01-23,Tablet,Europe,1_View,1
+2024-01-23,Tablet,Europe,2_Cart,2
+2024-01-23,Tablet,North America,1_View,4
+2024-01-23,Tablet,Other,2_Cart,1
+2024-01-24,Desktop,Asia,1_View,4
+2024-01-24,Desktop,Asia,2_Cart,4
+2024-01-24,Desktop,Asia,3_Checkout,2
+2024-01-24,Desktop,Europe,1_View,7
+2024-01-24,Desktop,Europe,2_Cart,2
+2024-01-24,Desktop,Europe,4_Purchase,1
+2024-01-24,Desktop,North America,1_View,6
+2024-01-24,Desktop,North America,2_Cart,2
+2024-01-24,Desktop,Other,1_View,7
+2024-01-24,Desktop,Other,2_Cart,1
+2024-01-24,Desktop,Other,3_Checkout,1
+2024-01-24,Mobile,Asia,1_View,10
+2024-01-24,Mobile,Asia,2_Cart,4
+2024-01-24,Mobile,Asia,3_Checkout,1
+2024-01-24,Mobile,Europe,1_View,7
+2024-01-24,Mobile,Europe,2_Cart,5
+2024-01-24,Mobile,Europe,3_Checkout,2
+2024-01-24,Mobile,North America,1_View,6
+2024-01-24,Mobile,North America,2_Cart,2
+2024-01-24,Mobile,North America,3_Checkout,1
+2024-01-24,Mobile,Other,1_View,10
+2024-01-24,Mobile,Other,2_Cart,3
+2024-01-24,Mobile,Other,3_Checkout,1
+2024-01-24,Mobile,Other,4_Purchase,1
+2024-01-24,Tablet,Asia,1_View,4
+2024-01-24,Tablet,Europe,1_View,1
+2024-01-24,Tablet,North America,1_View,3
+2024-01-24,Tablet,Other,1_View,1
+2024-01-24,Tablet,Other,2_Cart,1
+2024-01-25,Desktop,Asia,1_View,8
+2024-01-25,Desktop,Asia,2_Cart,1
+2024-01-25,Desktop,Asia,3_Checkout,1
+2024-01-25,Desktop,Europe,1_View,6
+2024-01-25,Desktop,Europe,2_Cart,4
+2024-01-25,Desktop,North America,1_View,8
+2024-01-25,Desktop,North America,2_Cart,2
+2024-01-25,Desktop,Other,1_View,6
+2024-01-25,Desktop,Other,3_Checkout,1
+2024-01-25,Mobile,Asia,1_View,10
+2024-01-25,Mobile,Asia,2_Cart,2
+2024-01-25,Mobile,Asia,3_Checkout,2
+2024-01-25,Mobile,Europe,1_View,11
+2024-01-25,Mobile,Europe,2_Cart,7
+2024-01-25,Mobile,Europe,3_Checkout,2
+2024-01-25,Mobile,Europe,4_Purchase,2
+2024-01-25,Mobile,North America,1_View,10
+2024-01-25,Mobile,North America,2_Cart,7
+2024-01-25,Mobile,North America,3_Checkout,1
+2024-01-25,Mobile,North America,4_Purchase,1
+2024-01-25,Mobile,Other,1_View,11
+2024-01-25,Mobile,Other,2_Cart,7
+2024-01-25,Mobile,Other,3_Checkout,2
+2024-01-25,Tablet,Asia,1_View,2
+2024-01-25,Tablet,Europe,1_View,2
+2024-01-25,Tablet,North America,1_View,1
+2024-01-25,Tablet,North America,3_Checkout,1
+2024-01-25,Tablet,Other,2_Cart,2
+2024-01-26,Desktop,Asia,1_View,1
+2024-01-26,Desktop,Asia,2_Cart,2
+2024-01-26,Desktop,Asia,3_Checkout,1
+2024-01-26,Desktop,Europe,1_View,6
+2024-01-26,Desktop,Europe,2_Cart,3
+2024-01-26,Desktop,North America,1_View,6
+2024-01-26,Desktop,North America,2_Cart,2
+2024-01-26,Desktop,North America,3_Checkout,1
+2024-01-26,Desktop,Other,1_View,7
+2024-01-26,Desktop,Other,2_Cart,2
+2024-01-26,Desktop,Other,3_Checkout,1
+2024-01-26,Mobile,Asia,1_View,13
+2024-01-26,Mobile,Asia,2_Cart,3
+2024-01-26,Mobile,Asia,3_Checkout,1
+2024-01-26,Mobile,Europe,1_View,13
+2024-01-26,Mobile,Europe,2_Cart,4
+2024-01-26,Mobile,Europe,4_Purchase,1
+2024-01-26,Mobile,North America,1_View,10
+2024-01-26,Mobile,North America,2_Cart,4
+2024-01-26,Mobile,North America,3_Checkout,1
+2024-01-26,Mobile,North America,4_Purchase,2
+2024-01-26,Mobile,Other,1_View,14
+2024-01-26,Mobile,Other,2_Cart,2
+2024-01-26,Mobile,Other,3_Checkout,2
+2024-01-26,Mobile,Other,4_Purchase,2
+2024-01-26,Tablet,Asia,1_View,2
+2024-01-26,Tablet,Europe,1_View,1
+2024-01-26,Tablet,Europe,2_Cart,2
+2024-01-26,Tablet,Europe,4_Purchase,1
+2024-01-26,Tablet,Other,1_View,2
+2024-01-27,Desktop,Asia,1_View,3
+2024-01-27,Desktop,Asia,2_Cart,8
+2024-01-27,Desktop,Asia,3_Checkout,3
+2024-01-27,Desktop,Europe,1_View,5
+2024-01-27,Desktop,Europe,2_Cart,1
+2024-01-27,Desktop,Europe,3_Checkout,1
+2024-01-27,Desktop,North America,1_View,4
+2024-01-27,Desktop,North America,2_Cart,2
+2024-01-27,Desktop,Other,1_View,2
+2024-01-27,Desktop,Other,2_Cart,1
+2024-01-27,Mobile,Asia,1_View,5
+2024-01-27,Mobile,Asia,2_Cart,1
+2024-01-27,Mobile,Asia,3_Checkout,1
+2024-01-27,Mobile,Europe,1_View,13
+2024-01-27,Mobile,Europe,2_Cart,1
+2024-01-27,Mobile,Europe,3_Checkout,1
+2024-01-27,Mobile,Europe,4_Purchase,1
+2024-01-27,Mobile,North America,1_View,8
+2024-01-27,Mobile,North America,2_Cart,4
+2024-01-27,Mobile,North America,3_Checkout,3
+2024-01-27,Mobile,Other,1_View,14
+2024-01-27,Mobile,Other,2_Cart,1
+2024-01-27,Tablet,Asia,1_View,4
+2024-01-27,Tablet,Asia,2_Cart,2
+2024-01-27,Tablet,Asia,3_Checkout,1
+2024-01-27,Tablet,Europe,1_View,1
+2024-01-27,Tablet,Europe,2_Cart,2
+2024-01-27,Tablet,Europe,3_Checkout,1
+2024-01-27,Tablet,North America,1_View,1
+2024-01-27,Tablet,North America,3_Checkout,1
+2024-01-27,Tablet,Other,1_View,1
+2024-01-27,Tablet,Other,2_Cart,1
+2024-01-28,Desktop,Asia,1_View,7
+2024-01-28,Desktop,Asia,2_Cart,1
+2024-01-28,Desktop,Europe,1_View,8
+2024-01-28,Desktop,Europe,3_Checkout,2
+2024-01-28,Desktop,North America,1_View,7
+2024-01-28,Desktop,North America,2_Cart,5
+2024-01-28,Desktop,North America,3_Checkout,1
+2024-01-28,Desktop,Other,1_View,5
+2024-01-28,Desktop,Other,2_Cart,2
+2024-01-28,Mobile,Asia,1_View,10
+2024-01-28,Mobile,Asia,2_Cart,4
+2024-01-28,Mobile,Asia,3_Checkout,2
+2024-01-28,Mobile,Asia,4_Purchase,1
+2024-01-28,Mobile,Europe,1_View,4
+2024-01-28,Mobile,Europe,2_Cart,4
+2024-01-28,Mobile,North America,1_View,8
+2024-01-28,Mobile,North America,2_Cart,4
+2024-01-28,Mobile,North America,3_Checkout,2
+2024-01-28,Mobile,North America,4_Purchase,1
+2024-01-28,Mobile,Other,1_View,11
+2024-01-28,Mobile,Other,2_Cart,4
+2024-01-28,Mobile,Other,3_Checkout,2
+2024-01-28,Tablet,Asia,1_View,1
+2024-01-28,Tablet,Europe,1_View,1
+2024-01-28,Tablet,North America,1_View,3
+2024-01-28,Tablet,North America,2_Cart,1
+2024-01-28,Tablet,Other,1_View,3
+2024-01-28,Tablet,Other,2_Cart,1
+2024-01-28,Tablet,Other,3_Checkout,2
+2024-01-29,Desktop,Asia,1_View,4
+2024-01-29,Desktop,Asia,2_Cart,3
+2024-01-29,Desktop,Asia,3_Checkout,2
+2024-01-29,Desktop,Europe,1_View,5
+2024-01-29,Desktop,Europe,2_Cart,3
+2024-01-29,Desktop,Europe,3_Checkout,1
+2024-01-29,Desktop,Europe,4_Purchase,1
+2024-01-29,Desktop,North America,1_View,6
+2024-01-29,Desktop,North America,2_Cart,1
+2024-01-29,Desktop,North America,3_Checkout,3
+2024-01-29,Desktop,Other,1_View,6
+2024-01-29,Desktop,Other,2_Cart,3
+2024-01-29,Desktop,Other,3_Checkout,1
+2024-01-29,Desktop,Other,4_Purchase,1
+2024-01-29,Mobile,Asia,1_View,6
+2024-01-29,Mobile,Asia,2_Cart,8
+2024-01-29,Mobile,Asia,3_Checkout,1
+2024-01-29,Mobile,Europe,1_View,14
+2024-01-29,Mobile,Europe,2_Cart,6
+2024-01-29,Mobile,Europe,3_Checkout,1
+2024-01-29,Mobile,Europe,4_Purchase,1
+2024-01-29,Mobile,North America,1_View,8
+2024-01-29,Mobile,North America,2_Cart,5
+2024-01-29,Mobile,North America,3_Checkout,6
+2024-01-29,Mobile,Other,1_View,12
+2024-01-29,Mobile,Other,2_Cart,3
+2024-01-29,Mobile,Other,3_Checkout,1
+2024-01-29,Tablet,Asia,1_View,5
+2024-01-29,Tablet,Europe,1_View,1
+2024-01-29,Tablet,Europe,4_Purchase,1
+2024-01-29,Tablet,North America,1_View,4
+2024-01-29,Tablet,North America,2_Cart,2
+2024-01-29,Tablet,Other,1_View,1
+2024-01-30,Desktop,Asia,1_View,5
+2024-01-30,Desktop,Asia,2_Cart,3
+2024-01-30,Desktop,Asia,3_Checkout,1
+2024-01-30,Desktop,Asia,4_Purchase,1
+2024-01-30,Desktop,Europe,1_View,5
+2024-01-30,Desktop,Europe,2_Cart,2
+2024-01-30,Desktop,Europe,3_Checkout,2
+2024-01-30,Desktop,North America,1_View,2
+2024-01-30,Desktop,Other,1_View,3
+2024-01-30,Desktop,Other,2_Cart,1
+2024-01-30,Mobile,Asia,1_View,8
+2024-01-30,Mobile,Asia,2_Cart,2
+2024-01-30,Mobile,Asia,3_Checkout,1
+2024-01-30,Mobile,Asia,4_Purchase,1
+2024-01-30,Mobile,Europe,1_View,7
+2024-01-30,Mobile,Europe,2_Cart,3
+2024-01-30,Mobile,Europe,3_Checkout,1
+2024-01-30,Mobile,North America,1_View,13
+2024-01-30,Mobile,North America,2_Cart,4
+2024-01-30,Mobile,North America,3_Checkout,3
+2024-01-30,Mobile,Other,1_View,15
+2024-01-30,Mobile,Other,2_Cart,1
+2024-01-30,Mobile,Other,3_Checkout,1
+2024-01-30,Tablet,Asia,1_View,1
+2024-01-30,Tablet,Asia,2_Cart,1
+2024-01-30,Tablet,Europe,1_View,2
+2024-01-30,Tablet,North America,1_View,3
+2024-01-30,Tablet,North America,2_Cart,1
+2024-01-30,Tablet,Other,2_Cart,2
