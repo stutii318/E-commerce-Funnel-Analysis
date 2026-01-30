@@ -1,6 +1,5 @@
 # E-commerce-Funnel-Analysis
 Python-based ETL and Power BI dashboard for user behaviour optimization.
-# E-Commerce User Behavior & Funnel Analysis
 
 This project analyzes the customer journey of an e-commerce platform using a **Python-to-Power BI pipeline**. By processing raw event logs, I identified critical drop-off points in the conversion funnel and provided data-driven recommendations to improve the final purchase rate.
 
